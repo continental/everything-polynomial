@@ -1,0 +1,10 @@
+av2==0.2.1
+matplotlib==3.5.2
+numpy==1.24.4
+pandas==1.4.3
+scipy==1.8.1
+Shapely==2.0.6
+tensorflow==2.8.0
+tensorflow_probability==0.16.0
+tqdm==4.62.3
+waymo_open_dataset==1.0.1
